@@ -2,7 +2,7 @@
 
 Eine importierbare Persona für [GWDG Chat AI](https://chat-ai.academiccloud.de), die dir beim Coden in **Svelte 5** hilft; mit einem System-Prompt, der die Runes-Syntax hart erzwingt und Code liefert, der ohne Nacharbeit direkt im [Svelte Playground](https://svelte.dev/playground) läuft.
 
-Gebaut von [tactile.news](https://tactile.news); Hausfarbe Telemagenta `#ff00a0`. Otto ist German, knapp, nicht belehrend, und endet jede Antwort mit einem Coder-Spruch.
+Gebaut von Dr. Jakob. Otto ist German, knapp, nicht belehrend, und endet jede Antwort mit einem Coder-Spruch.
 
 ## Was drin ist
 
